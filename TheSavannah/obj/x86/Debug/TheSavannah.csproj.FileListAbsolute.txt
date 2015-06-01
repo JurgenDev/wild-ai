@@ -1,0 +1,94 @@
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.exe
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.pdb
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.csprojResolveAssemblyReference.cache
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.exe
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.pdb
+c:\users\jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\Content\tigersprite.xnb
+C:\Users\Jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\Content\navnode.xnb
+C:\Users\Jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\Content\islandbg.xnb
+C:\Users\Jurgen\documents\visual studio 2013\Projects\TheSavannah\TheSavannah\bin\Windows\Debug\Content\rock.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.exe
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.pdb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\islandbg.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\navnode.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\rock.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\tigersprite.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.exe
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.pdb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.csprojResolveAssemblyReference.cache
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.exe
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.pdb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\islandbg.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\navnode.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\rock.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\tigersprite.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.exe
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\TheSavannah.pdb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\obj\x86\Debug\TheSavannah.csprojResolveAssemblyReference.cache
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\navnodered.xnb
+C:\Users\JurgenLaptop\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\navnodered.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\boarsprite.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\boarden.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\fruit.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\Robo.xnb
+C:\Users\Jurgen\Google Drive\Workspaces\Visual Studio 2013\TheSavannah\TheSavannah\bin\Windows\Debug\Content\fruitplant.xnb
