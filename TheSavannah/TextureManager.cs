@@ -19,6 +19,7 @@ namespace TheSavannah
         public static Texture2D TexFruit;
         public static SpriteFont FontArial;
         public static Texture2D TexFruitPlant;
+        public static Texture2D TexWater;
 
         public static void Load(ContentManager cm)
         {
@@ -32,6 +33,7 @@ namespace TheSavannah
             TexFruit = cm.Load<Texture2D>("fruit");
             FontArial = cm.Load<SpriteFont>("Robo");
             TexFruitPlant = cm.Load<Texture2D>("fruitplant");
+            TexWater = cm.Load<Texture2D>("water");
         }
     }
 }

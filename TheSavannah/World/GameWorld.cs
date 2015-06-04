@@ -70,7 +70,15 @@ namespace TheSavannah
         {
             //draw the island texture
             sprite.Draw(TextureManager.TexIsland, Vector2.Zero, null, Color.White, 0.0f, Vector2.Zero, 1.0f, SpriteEffects.None, 0.1f);
+            
 
+            for (int i = -1; i < 3; i++)
+            {
+                for (int j = -1; j < 2; j++)
+                {
+                    sprite.Draw(TextureManager.TexWater, new Vector2(1000*i , 1000 * j), null, Color.White, 0.0f, Vector2.Zero, 1.0f, SpriteEffects.None, 0.09f);
+                }
+            }
             //draw entities
             foreach (GameEntity e in entities)
             {
