@@ -43,7 +43,7 @@ namespace TheSavannah.Agent_Goals
 
             animal.steering += steer;
 
-            //if we're withing 25 units, we're done chasing
+            //if we're withing 25 units, we're done chasing and start murdering
             if (Vector2.Distance(target.position, animal.position) < 20)
             {
                 Terminate();

@@ -33,6 +33,7 @@ namespace TheSavannah.Agent_Goals
             
             if (ProcessSubgoal(t))
             {
+                //navigate to a random nearby node
                 NavNode n = animal.worldKnowledge.navGrid.Find(animal.position);
                 NavNode target = n.GetRandomNeighbour();
                 Boar b = (Boar) animal;

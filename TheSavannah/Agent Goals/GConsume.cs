@@ -37,15 +37,17 @@ namespace TheSavannah.Agent_Goals
                 
             if (Vector2.Distance(animal.position, target.GetPosition()) < 10)
             {
+                //don't move while eating, it's rude
                 animal.velocity = Vector2.Zero;
                 animal.steering = Vector2.Zero;
+
                 clock += t.ElapsedGameTime.Milliseconds;
                 if (clock > 1000)
                 {
                     
                     Toasts.AddToast(new Toast("nom", 200, animal.position));
                     animal.hunger += bitesize;
-                    animal.thirst += bitesize/2;
+                    //animal.thirst += bitesize/2;
 
                     if (target.Consumed(bitesize) < 0 )
                     {

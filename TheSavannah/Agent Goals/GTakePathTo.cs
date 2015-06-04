@@ -27,6 +27,8 @@ namespace TheSavannah.Agent_Goals
         public override Stat Process(GameTime t)
         {
             CheckStates();
+
+            //follow the path
             if (ProcessSubgoal(t))
             {
                 if (path.Count <= 0)

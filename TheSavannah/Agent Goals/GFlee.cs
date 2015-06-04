@@ -29,11 +29,12 @@ namespace TheSavannah.Agent_Goals
         {
             CheckStates();
 
+            //get vector from target to animal
             Vector2 steer = animal.position - predator.position;
-            //Vector2.Negate(steer);
 
             animal.steering += steer;
 
+            //if we're safe, terminate
             if (Vector2.Distance(predator.position, animal.position) > safedistance)
             {
                 Terminate();

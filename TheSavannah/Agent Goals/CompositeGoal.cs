@@ -21,6 +21,7 @@ namespace TheSavannah.Agent_Goals
 
         public bool ProcessSubgoal(GameTime dt)
         {
+            //this function automatically runs subgoals and removes completed goals
             if (subgoals.Count <= 0)
                 return true;
             if (subgoals.Peek().Process(dt) == Stat.COMPLETED)
@@ -30,6 +31,7 @@ namespace TheSavannah.Agent_Goals
 
         public override int Draw(SpriteBatch spr, Vector2 pos)
         {
+            //recursively draw all subgoals, return the amount of subgoals you have
             spr.DrawString(TextureManager.FontArial, GetType().Name , pos, Color.Black, 0.0f, Vector2.Zero, 0.7f, SpriteEffects.None, 0.41f);
             pos += new Vector2(10, 20);
 

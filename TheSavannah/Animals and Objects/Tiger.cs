@@ -77,7 +77,7 @@ namespace TheSavannah
                 //if thirst gets low, bring it back up
                 if (thirst < 20)
                 {
-                    thirst = 80;
+                    thirst = 100;
                 }
                 Console.WriteLine("Hunger: {0}, Thirst: {1}, Energy: {2}", hunger, thirst, energy);
             }

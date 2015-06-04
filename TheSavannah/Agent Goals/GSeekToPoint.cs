@@ -25,15 +25,18 @@ namespace TheSavannah.Agent_Goals
         {
             CheckStates();
 
+            //get a vector from animal to target
             Vector2 steer = point - animal.position;
             float dist = Vector2.Distance(point, animal.position);
 
+            //if we're close, slow down
             if(dist < 150)
                 steer += Vector2.Negate(animal.velocity)/(1 + (dist/100));
 
+            //go animal go
             animal.steering = steer;
             
-
+            //if we're withing radius, terminate
             if (Vector2.Distance(point, animal.position) < targetDist)
             {
                 Terminate();

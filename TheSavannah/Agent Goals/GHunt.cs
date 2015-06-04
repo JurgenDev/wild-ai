@@ -21,6 +21,7 @@ namespace TheSavannah.Agent_Goals
             Status = Stat.ACTIVE;
             Toasts.AddToast(new Toast("Hungry", 1500, animal.position));
 
+            //go to, chase, eat
             if (target is Food)
             {
                 Food f = (Food)target;
@@ -34,6 +35,7 @@ namespace TheSavannah.Agent_Goals
         {
             CheckStates();
 
+            //if we're really tired or done, blow off the hunt
             if (ProcessSubgoal(t) || animal.energy < 10)
             {
                 Terminate();
